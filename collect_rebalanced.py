@@ -422,4 +422,4 @@ else:
         print(f"  {key}: {value}")
     print("=" * 60)
     print(f"\n  Done! Results in: {output_file}")
-    print(f"  Send this file back to Claude!")
+   
